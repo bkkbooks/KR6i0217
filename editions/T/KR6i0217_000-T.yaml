@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0217/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 持心梵天所問經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0585.xml
+    old_id: T15n0585
+hash: sha256:8346d45f7e36fad466ef8bb33492b80f1a24de5cda0e3f15b5455bc6568c2d99
